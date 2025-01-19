@@ -19,7 +19,7 @@ Here are artciles of my favorite projects:
   <!-- Python -->
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" title="Python" />
   <!-- PyTorch -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png" alt="PyTorch" title="PyTorch" width="48" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png" alt="PyTorch" title="PyTorch" height="48" />
   <!-- React -->
   <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" title="React" />
   <!-- TensorFlow -->
@@ -39,9 +39,9 @@ Here are artciles of my favorite projects:
   <!-- Java -->
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" title="Java" />
   <!-- LaTeX -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" alt="LaTeX" title="LaTeX" width="48" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" alt="LaTeX" title="LaTeX" height="48" />
   <!-- Markdown -->
-  <img src="https://img.icons8.com/ios-filled/50/000000/markdown.png" alt="Markdown" title="Markdown" />
+  <img src="https://img.icons8.com/ios-filled/50/000000/markdown.png" alt="Markdown" title="Markdown" height="48" />
 </p>
 
 
