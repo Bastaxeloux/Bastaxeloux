@@ -8,9 +8,10 @@
 
 ## 🎨 Creative Showcase
 > "A picture is worth a thousand words."  
-Here are a few screenshots or demos of my favorite projects:
+Here are artciles of my favorite projects:
+[Portfolio](https://leguillouzic.com)
 
-[![Portfolio Preview](https://via.placeholder.com/400)](https://leguillouzic.com)
+---
 
 ## 📚 Projects
 
