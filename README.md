@@ -19,9 +19,9 @@ Here are artciles of my favorite projects:
   <!-- Python -->
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" title="Python" />
   <!-- PyTorch -->
-  <img src="https://img.icons8.com/color/48/000000/pytorch.png" alt="PyTorch" title="PyTorch" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png" alt="PyTorch" title="PyTorch" width="48" />
   <!-- React -->
-  <img src="https://img.icons8.com/plasticine/100/000000/react.png" alt="React" title="React" />
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" title="React" />
   <!-- TensorFlow -->
   <img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow" title="TensorFlow" />
   <!-- C++ -->
@@ -38,15 +38,12 @@ Here are artciles of my favorite projects:
   <img src="https://img.icons8.com/fluency/48/000000/arduino.png" alt="Arduino" title="Arduino" />
   <!-- Java -->
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" title="Java" />
-  <!-- Git -->
-  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" title="Git" />
-  <!-- VS Code -->
-  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" title="VS Code" />
   <!-- LaTeX -->
-  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-latex-a-document-preparation-system-for-high-quality-typesetting-logo-shadow-tal-revivo.png" alt="LaTeX" title="LaTeX" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" alt="LaTeX" title="LaTeX" width="48" />
   <!-- Markdown -->
   <img src="https://img.icons8.com/ios-filled/50/000000/markdown.png" alt="Markdown" title="Markdown" />
 </p>
+
 
 ---
 
