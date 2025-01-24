@@ -49,11 +49,5 @@
 
 ---
 
-## 🌍 Find me online
-- [LinkedIn](https://www.linkedin.com/in/ma%C3%ABl-le-guillouzic-4381a618a/)
-- [Personal Website](https://leguillouzic.com)
-
----
-
 ## 🎯 Goals for 2025
 - A lot of great things
