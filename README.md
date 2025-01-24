@@ -6,13 +6,6 @@
 
 ---
 
-## 🎨 Creative Showcase
-> "A picture is worth a thousand words."  
-Here are some articles of my favorite projects:
-[Portfolio](https://leguillouzic.com)
-
----
-
 ## 🌐 Languages & Tools
 
 <p align="center">
