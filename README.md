@@ -45,7 +45,7 @@
 ### 2. [JPEG Falsification Detection](https://github.com/Bastaxeloux/ima-compressionjpg-main)
 - Detection of Falsifications using JPEG grid
 
-### 3. [Deepfake Detection](https://github.com/nico-bly/PAF)
+### 3. [Deepfake Detection](https://github.com/Bastaxeloux/Deepfake-PAF)
 Detection of Deepfakes (generated with diffusion models) with Resnet 50 modified.
 
 ### 4. [AI Summit Hackathon - Top 4 on 26 Teams](https://github.com/saimeur/AI-Summit-Hackathon)
