@@ -8,10 +8,6 @@
 
 ## 🌐 Languages & Tools
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mamannne&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Mamannne's Top Languages" />
-</div>
-
 <p align="center">
   <!-- Python -->
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" title="Python" />
