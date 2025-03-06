@@ -8,11 +8,15 @@
 
 ## 🌐 Languages & Tools
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mamannne&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Mamannne's Top Languages" />
+</div>
+
 <p align="center">
   <!-- Python -->
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" title="Python" />
   <!-- PyTorch -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png" alt="PyTorch" title="PyTorch" height="46" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
   <!-- React -->
   <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" title="React" />
   <!-- TensorFlow -->
@@ -33,19 +37,27 @@
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" title="Java" />
   <!-- LaTeX -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" alt="LaTeX" title="LaTeX" height="46" />
-  <!-- Markdown -->
-  <img src="https://img.icons8.com/ios-filled/50/000000/markdown.png" alt="Markdown" title="Markdown" height="46" />
 </p>
 
 ---
 
-## 📚 Projects
+## 📚 Notable Projects
 
 ### 1. [Image Segmentation for Cardiac Imaging](https://github.com/Bastaxeloux/proj3dt)
 - Implemented a model for medical image segmentation.
 
 ### 2. [JPEG Falsification Detection](https://github.com/Bastaxeloux/ima-compressionjpg-main)
 - Detection of Falsifications using JPEG grid
+
+### 3. [Deepfake Detection](https://github.com/nico-bly/PAF)
+Detection of Deepfakes (generated with diffusion models) with Resnet 50 modified.
+
+### 4. [AI Summit Hackathon - Top 4 on 26 Teams](https://github.com/saimeur/AI-Summit-Hackathon)
+- Prediction of floodings and conception of a web app to give the safest evacuation path to the user given our predictions
+
+### 5. [PowerDot Hackathon](https://github.com/Bastaxeloux/PowerDot-Hackathon)
+- Prediction of grid problems for PowerDot
+
 
 ---
 
