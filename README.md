@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Maël LG!
 
 🎓 **Student in Computer Vision, AI, Mathematics and Data Science Enthusiast**  
-💻 Passionate about machine learning, sailing, geopolitics and sports.  
+💻 Passionate about AI, sailing, geopolitics and sports.  
 ♟️ In my free time, I love playing chess, practice various sports and read geopolitics newspapers.
 
 ---
